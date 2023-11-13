@@ -1,0 +1,12 @@
+.header .link a{
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+    padding: 0rem 2rem;
+}
+
+.header .link a:hover {
+    color:rgb(231, 161, 30);
+
+  }
